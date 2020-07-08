@@ -33,7 +33,7 @@ https://github.com/hyperledger/indy-sdk/blob/master/README.md#1-starting-the-tes
 
 •	Para ejecutar el código, dentro de la carpeta digital-identity, se escribe el siguiente comando: 
 ```shell
-python3 –m src,.main
+python3 –m src.main
 ```
 
 
